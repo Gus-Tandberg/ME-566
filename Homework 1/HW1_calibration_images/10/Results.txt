@@ -1,0 +1,74 @@
+================================================
+CHECKERBOARD DETECTION SUMMARY
+================================================
+
+Total images:      10
+Usable images:     10
+Rejected images:   0
+
+
+================================================
+CAMERA CALIBRATION RESULTS
+================================================
+
+Image resolution:
+1456 x 1088 pixels
+
+Images used:
+10
+
+OpenCV RMS calibration error:
+0.399994 pixels
+
+Calculated overall reprojection error:
+0.399993 pixels
+
+Camera matrix:
+
+[[1.68818230e+03 0.00000000e+00 7.15634869e+02]
+ [0.00000000e+00 1.68263043e+03 5.87226229e+02]
+ [0.00000000e+00 0.00000000e+00 1.00000000e+00]]
+
+Intrinsic camera parameters:
+
+fx = 1688.182297 pixels
+fy = 1682.630426 pixels
+
+cx = 715.634869 pixels
+cy = 587.226229 pixels
+
+Distortion coefficients:
+
+k1 = -0.5041367573
+k2 = 0.5504093032
+
+p1 = -0.0006194870
+p2 = 0.0002767616
+
+k3 = -0.8797126309
+
+
+================================================
+REPROJECTION ERROR BY IMAGE
+================================================
+
+  0.2544 pixels    WIN_20260907_12_54_22_Pro.jpg
+  0.1857 pixels    WIN_20260907_12_54_23_Pro.jpg
+  0.2611 pixels    WIN_20260907_12_54_32_Pro.jpg
+  0.5002 pixels    WIN_20260907_12_54_50_Pro.jpg
+  0.2716 pixels    WIN_20260907_12_54_55_Pro.jpg
+  0.8180 pixels    WIN_20260907_13_20_46_Pro (2).jpg
+  0.0675 pixels    WIN_20260907_14_20_55_Pro.jpg
+  0.2590 pixels    WIN_20260907_14_21_00_Pro.jpg
+  0.4168 pixels    WIN_20260907_14_21_04_Pro.jpg
+  0.4405 pixels    WIN_20260907_14_21_09_Pro.jpg
+
+Highest-error calibration image:
+WIN_20260907_13_20_46_Pro (2).jpg
+Error = 0.8180 pixels
+
+Calibration data saved to:
+
+C:\Users\Gus\Pictures\HW1_calibration_images\10\camera_calibration.npz
+
+Calibration finished successfully.

@@ -1,0 +1,144 @@
+================================================
+CHECKERBOARD DETECTION SUMMARY
+================================================
+
+Total images:      80
+Usable images:     80
+Rejected images:   0
+
+
+================================================
+CAMERA CALIBRATION RESULTS
+================================================
+
+Image resolution:
+1456 x 1088 pixels
+
+Images used:
+80
+
+OpenCV RMS calibration error:
+0.396706 pixels
+
+Calculated overall reprojection error:
+0.396705 pixels
+
+Camera matrix:
+
+[[1.66558337e+03 0.00000000e+00 6.80572900e+02]
+ [0.00000000e+00 1.66212803e+03 5.91209149e+02]
+ [0.00000000e+00 0.00000000e+00 1.00000000e+00]]
+
+Intrinsic camera parameters:
+
+fx = 1665.583370 pixels
+fy = 1662.128030 pixels
+
+cx = 680.572900 pixels
+cy = 591.209149 pixels
+
+Distortion coefficients:
+
+k1 = -0.4629985812
+k2 = 0.1540448180
+
+p1 = -0.0020460973
+p2 = 0.0043765292
+
+k3 = 0.2778172434
+
+
+================================================
+REPROJECTION ERROR BY IMAGE
+================================================
+
+  0.1375 pixels    WIN_20260907_12_54_00_Pro.jpg
+  0.2635 pixels    WIN_20260907_12_54_02_Pro.jpg
+  0.4282 pixels    WIN_20260907_12_54_04_Pro.jpg
+  0.4552 pixels    WIN_20260907_12_54_05_Pro.jpg
+  0.2357 pixels    WIN_20260907_12_54_06_Pro.jpg
+  0.1577 pixels    WIN_20260907_12_54_07_Pro.jpg
+  0.1545 pixels    WIN_20260907_12_54_08_Pro.jpg
+  0.2059 pixels    WIN_20260907_12_54_09_Pro.jpg
+  0.4213 pixels    WIN_20260907_12_54_11_Pro.jpg
+  0.4349 pixels    WIN_20260907_12_54_12_Pro.jpg
+  0.4061 pixels    WIN_20260907_12_54_13_Pro.jpg
+  0.1755 pixels    WIN_20260907_12_54_14_Pro.jpg
+  0.1649 pixels    WIN_20260907_12_54_15_Pro.jpg
+  0.2629 pixels    WIN_20260907_12_54_16_Pro.jpg
+  0.1614 pixels    WIN_20260907_12_54_17_Pro.jpg
+  0.1931 pixels    WIN_20260907_12_54_18_Pro.jpg
+  0.1685 pixels    WIN_20260907_12_54_19_Pro.jpg
+  0.2018 pixels    WIN_20260907_12_54_20_Pro.jpg
+  0.3806 pixels    WIN_20260907_12_54_21_Pro.jpg
+  0.2509 pixels    WIN_20260907_12_54_22_Pro.jpg
+  0.2211 pixels    WIN_20260907_12_54_23_Pro.jpg
+  0.2098 pixels    WIN_20260907_12_54_24_Pro.jpg
+  0.3779 pixels    WIN_20260907_12_54_25_Pro.jpg
+  0.3487 pixels    WIN_20260907_12_54_26_Pro.jpg
+  0.2116 pixels    WIN_20260907_12_54_31_Pro.jpg
+  0.2702 pixels    WIN_20260907_12_54_32_Pro.jpg
+  0.2625 pixels    WIN_20260907_12_54_33_Pro.jpg
+  0.2307 pixels    WIN_20260907_12_54_34_Pro.jpg
+  0.1754 pixels    WIN_20260907_12_54_35_Pro.jpg
+  0.2195 pixels    WIN_20260907_12_54_36_Pro.jpg
+  0.2763 pixels    WIN_20260907_12_54_37_Pro.jpg
+  0.2879 pixels    WIN_20260907_12_54_38_Pro.jpg
+  0.2148 pixels    WIN_20260907_12_54_39_Pro.jpg
+  0.3604 pixels    WIN_20260907_12_54_40_Pro.jpg
+  0.4301 pixels    WIN_20260907_12_54_41_Pro.jpg
+  0.2280 pixels    WIN_20260907_12_54_42_Pro.jpg
+  0.1578 pixels    WIN_20260907_12_54_43_Pro.jpg
+  0.3579 pixels    WIN_20260907_12_54_44_Pro.jpg
+  0.4442 pixels    WIN_20260907_12_54_45_Pro.jpg
+  0.3833 pixels    WIN_20260907_12_54_47_Pro.jpg
+  0.3157 pixels    WIN_20260907_12_54_48_Pro.jpg
+  0.3587 pixels    WIN_20260907_12_54_49_Pro (2).jpg
+  0.2893 pixels    WIN_20260907_12_54_49_Pro.jpg
+  0.4752 pixels    WIN_20260907_12_54_50_Pro.jpg
+  0.9175 pixels    WIN_20260907_12_54_52_Pro.jpg
+  0.4085 pixels    WIN_20260907_12_54_53_Pro.jpg
+  0.3438 pixels    WIN_20260907_12_54_54_Pro.jpg
+  0.3768 pixels    WIN_20260907_12_54_55_Pro (2).jpg
+  0.2810 pixels    WIN_20260907_12_54_55_Pro.jpg
+  0.5136 pixels    WIN_20260907_12_54_56_Pro.jpg
+  0.5217 pixels    WIN_20260907_12_54_57_Pro (2).jpg
+  0.4961 pixels    WIN_20260907_12_54_57_Pro.jpg
+  0.6393 pixels    WIN_20260907_12_54_58_Pro.jpg
+  0.3963 pixels    WIN_20260907_12_54_59_Pro (2).jpg
+  0.3580 pixels    WIN_20260907_12_54_59_Pro.jpg
+  0.3586 pixels    WIN_20260907_12_55_00_Pro (2).jpg
+  0.3750 pixels    WIN_20260907_12_55_00_Pro.jpg
+  0.4512 pixels    WIN_20260907_12_55_01_Pro (2).jpg
+  0.3952 pixels    WIN_20260907_12_55_01_Pro.jpg
+  0.4837 pixels    WIN_20260907_12_55_02_Pro.jpg
+  0.4552 pixels    WIN_20260907_12_55_03_Pro (2).jpg
+  0.4735 pixels    WIN_20260907_12_55_03_Pro.jpg
+  0.3997 pixels    WIN_20260907_12_55_04_Pro (2).jpg
+  0.4370 pixels    WIN_20260907_12_55_04_Pro.jpg
+  0.2931 pixels    WIN_20260907_12_55_05_Pro.jpg
+  0.1636 pixels    WIN_20260907_12_55_06_Pro (2).jpg
+  0.1441 pixels    WIN_20260907_12_55_06_Pro.jpg
+  0.4527 pixels    WIN_20260907_12_55_07_Pro (2).jpg
+  0.2791 pixels    WIN_20260907_12_55_07_Pro.jpg
+  0.7787 pixels    WIN_20260907_13_20_41_Pro.jpg
+  0.3141 pixels    WIN_20260907_13_20_45_Pro (2).jpg
+  0.8130 pixels    WIN_20260907_13_20_46_Pro (2).jpg
+  0.6219 pixels    WIN_20260907_13_20_46_Pro.jpg
+  0.8466 pixels    WIN_20260907_13_20_48_Pro.jpg
+  0.8243 pixels    WIN_20260907_14_20_51_Pro.jpg
+  0.2043 pixels    WIN_20260907_14_20_53_Pro.jpg
+  0.0580 pixels    WIN_20260907_14_20_55_Pro.jpg
+  0.2736 pixels    WIN_20260907_14_21_00_Pro.jpg
+  0.4620 pixels    WIN_20260907_14_21_04_Pro.jpg
+  0.5608 pixels    WIN_20260907_14_21_09_Pro.jpg
+
+Highest-error calibration image:
+WIN_20260907_12_54_52_Pro.jpg
+Error = 0.9175 pixels
+
+Calibration data saved to:
+
+C:\Users\Gus\Pictures\HW1_calibration_images\bulk\camera_calibration.npz
+
+Calibration finished successfully.

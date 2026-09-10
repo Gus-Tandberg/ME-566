@@ -1,0 +1,87 @@
+================================================
+CHECKERBOARD DETECTION SUMMARY
+================================================
+
+Total images:      25
+Usable images:     25
+Rejected images:   0
+
+
+================================================
+CAMERA CALIBRATION RESULTS
+================================================
+
+Image resolution:
+1456 x 1088 pixels
+
+Images used:
+25
+
+OpenCV RMS calibration error:
+0.435443 pixels
+
+Calculated overall reprojection error:
+0.435442 pixels
+
+Camera matrix:
+
+[[1.68885016e+03 0.00000000e+00 6.67450743e+02]
+ [0.00000000e+00 1.68451272e+03 5.89383973e+02]
+ [0.00000000e+00 0.00000000e+00 1.00000000e+00]]
+
+Intrinsic camera parameters:
+
+fx = 1688.850163 pixels
+fy = 1684.512723 pixels
+
+cx = 667.450743 pixels
+cy = 589.383973 pixels
+
+Distortion coefficients:
+
+k1 = -0.4707961258
+k2 = 0.2190861065
+
+p1 = -0.0015991614
+p2 = 0.0059662971
+
+k3 = 0.0274134810
+
+
+================================================
+REPROJECTION ERROR BY IMAGE
+================================================
+
+  0.4635 pixels    WIN_20260907_12_54_05_Pro.jpg
+  0.1504 pixels    WIN_20260907_12_54_07_Pro.jpg
+  0.2008 pixels    WIN_20260907_12_54_09_Pro.jpg
+  0.1757 pixels    WIN_20260907_12_54_18_Pro.jpg
+  0.3841 pixels    WIN_20260907_12_54_21_Pro.jpg
+  0.2544 pixels    WIN_20260907_12_54_22_Pro.jpg
+  0.1968 pixels    WIN_20260907_12_54_23_Pro.jpg
+  0.2133 pixels    WIN_20260907_12_54_31_Pro.jpg
+  0.2786 pixels    WIN_20260907_12_54_32_Pro.jpg
+  0.2194 pixels    WIN_20260907_12_54_36_Pro.jpg
+  0.2931 pixels    WIN_20260907_12_54_38_Pro.jpg
+  0.1821 pixels    WIN_20260907_12_54_43_Pro.jpg
+  0.4444 pixels    WIN_20260907_12_54_45_Pro.jpg
+  0.4747 pixels    WIN_20260907_12_54_50_Pro.jpg
+  0.4171 pixels    WIN_20260907_12_54_53_Pro.jpg
+  0.2932 pixels    WIN_20260907_12_54_55_Pro.jpg
+  0.7621 pixels    WIN_20260907_13_20_41_Pro.jpg
+  0.8165 pixels    WIN_20260907_13_20_46_Pro (2).jpg
+  0.8377 pixels    WIN_20260907_13_20_48_Pro.jpg
+  0.8074 pixels    WIN_20260907_14_20_51_Pro.jpg
+  0.2151 pixels    WIN_20260907_14_20_53_Pro.jpg
+  0.0643 pixels    WIN_20260907_14_20_55_Pro.jpg
+  0.2427 pixels    WIN_20260907_14_21_00_Pro.jpg
+  0.4665 pixels    WIN_20260907_14_21_04_Pro.jpg
+  0.5284 pixels    WIN_20260907_14_21_09_Pro.jpg
+
+Highest-error calibration image:
+WIN_20260907_13_20_48_Pro.jpg
+Error = 0.8377 pixels
+
+Calibration data saved to:
+
+C:\Users\Gus\Pictures\HW1_calibration_images\25\camera_calibration.npz

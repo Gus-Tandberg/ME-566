@@ -1,0 +1,66 @@
+================================================
+CHECKERBOARD DETECTION SUMMARY
+================================================
+
+Total images:      2
+Usable images:     2
+Rejected images:   0
+
+
+================================================
+CAMERA CALIBRATION RESULTS
+================================================
+
+Image resolution:
+1456 x 1088 pixels
+
+Images used:
+2
+
+OpenCV RMS calibration error:
+0.548670 pixels
+
+Calculated overall reprojection error:
+0.548670 pixels
+
+Camera matrix:
+
+[[1.61744313e+03 0.00000000e+00 7.39396233e+02]
+ [0.00000000e+00 1.62982342e+03 5.48494309e+02]
+ [0.00000000e+00 0.00000000e+00 1.00000000e+00]]
+
+Intrinsic camera parameters:
+
+fx = 1617.443126 pixels
+fy = 1629.823422 pixels
+
+cx = 739.396233 pixels
+cy = 548.494309 pixels
+
+Distortion coefficients:
+
+k1 = -1.3639350330
+k2 = 6.0866876060
+
+p1 = 0.0144057821
+p2 = -0.0490082019
+
+k3 = -13.2288944466
+
+
+================================================
+REPROJECTION ERROR BY IMAGE
+================================================
+
+  0.3313 pixels    WIN_20260907_12_54_50_Pro.jpg
+  0.7016 pixels    WIN_20260907_13_20_46_Pro (2).jpg
+
+Highest-error calibration image:
+WIN_20260907_13_20_46_Pro (2).jpg
+Error = 0.7016 pixels
+
+Calibration data saved to:
+
+C:\Users\Gus\Pictures\HW1_calibration_images\2\camera_calibration.npz
+
+Calibration finished successfully.
